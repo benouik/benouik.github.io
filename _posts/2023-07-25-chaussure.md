@@ -15,7 +15,7 @@ Car oui les cailloux sont __injustement__ peu considérés dans notre _société
 ![Barbares](/assets/barbarians.jpg){: .left w="350"}
 
 
-«_Il salua la foule et elle le salua en retour. Il la salua à nouveau et mouru dans d'horribles souffrance. Quel con..._»
+«_Il salua la foule et elle le salua en retour. Il la salua à nouveau et mouru dans d'horribles souffrance. Quel con de chauve..._»
 
 <br>
 <br>
