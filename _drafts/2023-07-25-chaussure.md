@@ -9,8 +9,12 @@ tags: [shure]
 
 Si vous aimez la facilité bienvenu sur ce blog. Comme disait le célèbre bourreau cevenol Morgan Proufille:
 
+
 > Shut the fuck up gneuuuuuu
 {: .prompt-danger }
+
+
+![Barbares](/assets/barbarians.jpg)
 
 ```python
 import fartface
