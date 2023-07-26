@@ -26,3 +26,7 @@ print("Pouet")
 chatmignon.clear()
 ```
 {:style="clear: left"}
+
+<br>
+
+___C'était vraiment très intéressant...___{: style="color: coral"}
