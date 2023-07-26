@@ -16,7 +16,7 @@ Car oui les cailloux sont __injustement__ peu considérés dans notre _société
 
 
 «_Il salua la foule et elle le salua en retour. Il la salua à nouveau et mouru dans d'horribles souffrance. Quel con de chauve..._»
-{: style="margin-top: 2em;"}
+{: style="margin-top: 4em;"}
 
 
 ```python
