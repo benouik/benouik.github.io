@@ -37,7 +37,7 @@ Ils venaient juste de capituler que tout commençait déjà à disparaitre, les 
 L'automutilation suivie d'autophagie était sa recette miracle contre les pensées misérabilistes.
 
 \- « _Qu'est ce que je suis bon !_ »
-Il passa ses mains dans ces chouveux et regretta son amputation récente.
+Il passa ses mains dans ses chouveux et regretta son amputation récente.
 
 \- « _Je prendrai mon pied en te les coupants toutes, chienne de monstre_. »
 
@@ -46,7 +46,7 @@ Attrapant son baluchon et son bouclier tortue, il s'apprêta à partir, pensant 
 
 > « _Un jour tu perdras tout. Et après ce jour, la rage te le rendra au centuple, ton royaume sera un mausolée d'épreuves passées et de guerriers-concubins occis. Ne plie pas ta lame, reste ferme et frappe juste._ »
 
-\- « _Bave tant que tu peux, je finirai par t'avoir et ornerai mon trône te des balloches exangues_ »
+\- « _Bave tant que tu peux, je finirai par t'avoir et ornerai mon trône te tes balloches exangues_ »
 
 Sans un regard en arrière il partit en direction du Nord, il voulait à tout prix l'éviter mais son aide sera précieuse. Le prix à payer n'était pas si lourd se dit il, il savait y faire, le nombre n'y change rien, il suffit de faire ce que Rahbja lui a appris, _rester ferme et frapper juste_.
 
