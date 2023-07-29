@@ -6,7 +6,7 @@ categories: [nouvelle]
 image: /assets/choucroute.jpg
 ---
 
-Le capitaine, mi-homme mi choucroute était las de voir ses amis tomber, tués par la limace à six pattes et six sexes.
+Le capitaine, mi-homme mi-choucroute était las de voir ses amis tomber, tués par la limace à six pattes et six sexes.
 
 Depuis des jours ils combattaient cette ignominie, les épées de chair, arquebuses et autres flagélons maméliques n'arrivaient pas à entamer l'épais cuir noir de la bête.
 Même les enchantements tantriques des mages biglodytes ne rendaient pas les armes assez puissantes pour pénétrer sa peau tanée d'obsidienne impie.
@@ -25,14 +25,14 @@ Mais maintenant il se demandait sur qui il pourrait s'appuyer.
 
 ![woman](/assets/mother-wife.jpg){: .left w="350" style="margin-bottom: 2em;"}
 
-Il se pencha vers elle et baisa son front, embrassant ses orbites crevées, faisant fuir les quelques insectes qui avaient commencé leur travail.
+Il se pencha vers elle et baisa son front, embrassant ses orbites crevées, faisant fuir les quelques insectes qui avaient entamé leur travail.
 {: style="margin-top: 5em"}
 
 
 Ils venaient juste de capituler que tout commençait déjà à disparaitre, les corps, les amitiés, les souvenirs, l'espoir...
 {: style="clear: left"}
 
-\- « _Je ne dois pas céder au défaitisme_ » - Se dit il avant de se couper une rondelle de rosette avec sa dague.
+\- « _Je ne dois pas céder au défaitisme_ » - Se dit il avant de se couper une rondelle de rosette à l'aide de sa dague.
 
 L'automutilation suivie d'autophagie était sa recette miracle contre les pensées misérabilistes.
 
